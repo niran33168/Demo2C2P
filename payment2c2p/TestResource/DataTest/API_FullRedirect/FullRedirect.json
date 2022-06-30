@@ -1,0 +1,18 @@
+{
+    "paymentType": "",
+    "paymentScene": "",
+    "paymentToken": {
+        "merchantID": "",
+        "invoiceNo": "",
+        "description": "",
+        "amount": null,
+        "currencyCode": "",
+        "backendReturnUrl": "",
+ 
+        "userDefined1": "",
+        "userDefined2": "",
+        "userDefined3": "",
+        "userDefined4": "",
+        "userDefined5": ""
+    }
+}

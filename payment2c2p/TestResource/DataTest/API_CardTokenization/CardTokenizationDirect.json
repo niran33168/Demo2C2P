@@ -1,0 +1,55 @@
+{
+    "version": "",
+    "merchantID": "",
+    "action": "",
+    "pan": "",
+    "panExpiry": "",
+    "panBank": "",
+    "panCountry": "",
+    "panCurrency": "",
+    "cardHolderName": "",
+    "cardHolderEmail": "",
+    "timeStamp": "",
+    "storeCardUniqueID": "",
+    "paymentScene": "",
+    "paymentToken": {
+        "merchantID": "",
+        "invoiceNo": "",
+        "description": "",
+        "amount": null,
+        "currencyCode": "",
+        "cardTokens": [
+            ""
+        ]
+    },
+    "paymentOption": {
+        "locale": "en"
+    },
+    "doPayment": {
+        "responseReturnUrl": "",
+        "payment": {
+            "code": {
+                "channelCode": "CC"
+            },
+            "data": {
+                "name": "Viiriyah Insurance",
+                "email": "adminIt@viriyah.co.th",
+                "securePayToken": "00acM9LRQobui7b/z+KFAr4xVvvza2WR7u624O0XUFEyW1LJhHE67k3IbAp4pjLhWSdvZV1+3yz2olAQYSPuZY8bToat9ng4df8cXzM1wNU7f1xDg6xOlzMG9YA9ATYVDBNrQgrZ3K8+6fO3bezWTNJ53FlU5PDzqRwbps5JD+xGygM=U2FsdGVkX18LjuivKId+OUA/uPbCovjiXcW0plUP5TfRwsf2hxhpj9WsGv8gVECF",
+                "billingAddress1": "rama2",
+                "billingAddress2": "",
+                "billingAddress3": "",
+                "billingCity": "Bangkok",
+                "billingState": "Bangkok",
+                "billingPostalCode": "11120",
+                "billingCountryCode": "TH",
+                "shippingAddress1": "rama2",
+                "shippingAddress2": "",
+                "shippingAddress3": "",
+                "shippingCity": "Bangkok",
+                "shippingState": "Bangkok",
+                "shippingPostalCode": "11120",
+                "shippingCountryCode": "TH"
+            }
+        }
+    }
+}

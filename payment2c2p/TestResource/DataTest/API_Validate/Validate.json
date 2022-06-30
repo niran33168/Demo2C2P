@@ -1,0 +1,57 @@
+{
+    "paymentScene": "",
+    "paymentToken": {
+        "merchantID": "",
+        "invoiceNo": "",
+        "description": "",
+        "amount": null,
+        "currencyCode": "",
+        "backendReturnUrl": "",
+        "paymentChannel": [""],
+        "installmentPeriodFilter": [],
+        "recurring": null,
+        "invoicePrefix": "",
+        "orderIdPrefix":"",
+        "recurringAmount": "",
+        "allowAccumulate": null,
+        "maxAccumulateAmount": "",
+        "recurringInterval": "",
+        "recurringCount": "",
+        "chargeNextDate": "",
+        "userDefined1": "",
+        "userDefined2": "",
+        "userDefined3": "",
+        "userDefined4": "",
+        "userDefined5": ""
+    },
+    "paymentOption": {
+        "locale": ""
+    },
+    "doPayment": {
+        "responseReturnUrl": "",
+        "payment": {
+            "code": {
+                "channelCode": ""
+            },
+            "data": {
+                "name": "",
+                "email": "",
+                "securePayToken": "00acM9LRQobui7b/z+KFAr4xVvvza2WR7u624O0XUFEyW1LJhHE67k3IbAp4pjLhWSdvZV1+3yz2olAQYSPuZY8bToat9ng4df8cXzM1wNU7f1xDg6xOlzMG9YA9ATYVDBNrQgrZ3K8+6fO3bezWTNJ53FlU5PDzqRwbps5JD+xGygM=U2FsdGVkX18LjuivKId+OUA/uPbCovjiXcW0plUP5TfRwsf2hxhpj9WsGv8gVECF",
+                "billingAddress1": "",
+                "billingAddress2": "",
+                "billingAddress3": "",
+                "billingCity": "",
+                "billingState": "",
+                "billingPostalCode": "",
+                "billingCountryCode": "",
+                "shippingAddress1": "",
+                "shippingAddress2": "",
+                "shippingAddress3": "",
+                "shippingCity": "",
+                "shippingState": "",
+                "shippingPostalCode": "",
+                "shippingCountryCode": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "version": "",
+    "merchantID": "",
+    "action": "",
+    "pan": "",
+    "panExpiry": "",
+    "panBank": "",
+    "panCountry": "",
+    "panCurrency": "",
+    "cardHolderName": "",
+    "cardHolderEmail": "",
+    "timeStamp": "",
+    "storeCardUniqueID": "",
+    "paymentScene": "",
+    "paymentToken": {
+        "merchantID": "",
+        "invoiceNo": "",
+        "description": "",
+        "amount": null,
+        "currencyCode": "",
+        "cardTokens": [""]
+    }
+}
